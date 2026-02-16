@@ -1,0 +1,2 @@
+model = YOLO("runs/detect/train10/weights/best.pt")
+DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1425512759734571031/KWjq40nV8pSyx1qNk4ZWMIAi7HQ8je0V9-JKXOQ7zeCnro3uKt5VbymGtTd8o2AOscBQ"  # ใส่ webhook ของคุณ

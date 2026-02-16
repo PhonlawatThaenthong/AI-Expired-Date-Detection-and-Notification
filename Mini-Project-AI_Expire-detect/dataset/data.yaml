@@ -1,0 +1,5 @@
+train: E:\Ai project\project_No2\dataset\images\train
+val: E:\Ai project\project_No2\dataset\images\val
+
+nc: 1
+names: ['expiry_date']
